@@ -25,6 +25,7 @@ This project demonstrates the deployment and management of a PostgreSQL database
 ## Setup requirements
 
 -  CentOS 9: Virtual Machine for Minikube setup.
+-  PostgreSQL 17: Database software
 -  Minikube: A small Kubernetes cluster deployed on your local machine (2 CPUs, 2GB RAM, and 20GB disk). -
 -  Helm: A package manager for Kubernetes, used to deploy and manage PostgreSQL deployments.
 -  ython: For running a data insertion script that populates PostgreSQL tables with 100,000 records using the Faker library.
